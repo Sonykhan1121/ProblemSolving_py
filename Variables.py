@@ -1,0 +1,8 @@
+n = int(input())
+long = int(input())
+fl = float(input())
+ch = str(input())
+print(n)
+print(long)
+print(f"{fl:.2f}")
+print(ch)
