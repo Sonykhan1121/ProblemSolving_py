@@ -1,0 +1,17 @@
+1)	F2 rename variable all
+2)	 Tab ->indent all code to one tab right / shift + tab -> right
+3)	Ctrl + D duplicate row.
+4)	Ctrl + Shift + t -> last close tab
+5)	Ctrl + Tab -> another tab in editor.
+6)	Ctrl + right arrow -> start end anything.
+7)	F8 for going on errors.
+8)	F12 for find variable declaration.
+9)	Shift + home/end for cursor +left all mark or right all mark
+10)	Ctrl + W for hide current tab.
+11)	Esc to close 
+12)	 Ctrl + ` for terminal open and close
+13)	Ctrl + p for search file
+14)	Ctrl + T for open new tab
+15)	Home / end for end of line or start of line.
+16) All occurences ctrl+shift+ L
+17) f3 for next occurrence
