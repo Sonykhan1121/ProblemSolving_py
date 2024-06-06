@@ -16,5 +16,7 @@
 16) All occurences ctrl+shift+ L
 17) f3 for next occurrence
 18) ctrl + shift + enter for line above /without shift ->line under 
-19) 
+19) Ctrl +Shift + E for opening explorer
+20 ) ctrl + B for close explorer  when it's already open / start and end of bracket
+
 
