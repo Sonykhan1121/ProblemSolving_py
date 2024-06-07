@@ -19,4 +19,5 @@
 19) Ctrl +Shift + E for opening explorer
 20 ) ctrl + B for close explorer  when it's already open / start and end of bracket
 21) ctrl + shift + \ for go to end of bracket
+22) Shift + / displaying popular website shortcuts 
 
