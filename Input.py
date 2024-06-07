@@ -1,0 +1,6 @@
+x , k = map(int , input().split())
+s = input()
+# s =s.replace('x',str(x))
+# print(s)
+ans = eval(s)
+print(ans==k)
