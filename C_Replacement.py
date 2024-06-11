@@ -7,5 +7,4 @@ for i in range(n):
     elif(a[i]>0):
         a[i] = 1
 
-for i in range(n):
-    print(a[i],end=" ")
+print(*a)
