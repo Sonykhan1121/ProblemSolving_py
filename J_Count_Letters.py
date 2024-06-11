@@ -1,14 +1,14 @@
-s = str(input())
-n  = len(s)
-mp = {}
+s = input()
 
-for i in range(n):
-    if(s[i] in mp):
-        mp[s[i]]+=1
+mp = dict()
+# print(type(mp))
+for i in s:
+    if i not in mp:
+        mp[i]= 1
     else:
-        mp[s[i]]=1
+        mp[i]+= 1
 
-for i in range(ord('a'),ord('z')+1):
-    ch = chr(i)
-    if(ch in mp):
-        print(f"{ch} : {mp[ch]}")
+for i in range(26):
+    c = chr(i+97)
+    if c in mp:
+        print(f"{c} : {mp[c]}")
