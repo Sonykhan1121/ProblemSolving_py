@@ -1,0 +1,5 @@
+n = int(input())
+a = list(map(int,input().split()))
+ans = list(map(int,input().split()))
+ans.extend(a)
+print(*ans)
